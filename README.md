@@ -1,1 +1,1 @@
-# food_classifier
+# food-classifier
